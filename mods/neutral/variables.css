@@ -11,7 +11,7 @@
 :root {
   /** dark **/
 
-  --theme_dark--main: #131313;
+  --theme_dark--main: #282828;
   --theme_dark--sidebar: #161616;
   --theme_dark--overlay: rgba(15, 15, 15, 0.6);
   --theme_dark--dragarea: #111111;
@@ -41,7 +41,7 @@
   --theme_dark--scrollbar-border: transparent;
   --theme_dark--scrollbar_hover: #373838;
 
-  --theme_dark--card: #181818;
+  --theme_dark--card: #3b3b3b;
   --theme_dark--gallery: rgba(105, 105, 105, 0.05);
   --theme_dark--select_input: #1d1d1d;
   --theme_dark--table-border: rgba(78, 78, 78, 0.7);
